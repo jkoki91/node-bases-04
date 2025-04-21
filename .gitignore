@@ -1,7 +1,11 @@
 node_modules/
-
 \dist
+outputs/
 
 *.log
 
-DS_Store
+.DS_Store
+
+custom-outputs/
+test-destination/
+coverage/
